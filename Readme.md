@@ -1,0 +1,1 @@
+Um jogo que gera um número aleatório e você resolve o cálculo que escolheu.
